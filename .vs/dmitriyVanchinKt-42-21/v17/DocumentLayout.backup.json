@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\\u041F\u0440\u043E\u0435\u043A\u0442\\dmitriyVanchinKt-42-21\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\dmitriy-vanchin-kt-42-21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB466249-64D4-4764-8033-6F08D6AD85DA}|dmitriyVanchinKt-42-21\\dmitriyVanchinKt-42-21.csproj|c:\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\dmitriy-vanchin-kt-42-21\\dmitriyvanchinkt-42-21\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB466249-64D4-4764-8033-6F08D6AD85DA}|dmitriyVanchinKt-42-21\\dmitriyVanchinKt-42-21.csproj|solutionrelative:dmitriyvanchinkt-42-21\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB466249-64D4-4764-8033-6F08D6AD85DA}|dmitriyVanchinKt-42-21\\dmitriyVanchinKt-42-21.csproj|c:\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\dmitriy-vanchin-kt-42-21\\dmitriyvanchinkt-42-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB466249-64D4-4764-8033-6F08D6AD85DA}|dmitriyVanchinKt-42-21\\dmitriyVanchinKt-42-21.csproj|solutionrelative:dmitriyvanchinkt-42-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\dmitriy-vanchin-kt-42-21\\dmitriyVanchinKt-42-21\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "dmitriyVanchinKt-42-21\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\dmitriy-vanchin-kt-42-21\\dmitriyVanchinKt-42-21\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "dmitriyVanchinKt-42-21\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:16:57.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\dmitriy-vanchin-kt-42-21\\dmitriyVanchinKt-42-21\\Program.cs",
+              "RelativeDocumentMoniker": "dmitriyVanchinKt-42-21\\Program.cs",
+              "ToolTip": "C:\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C_7\u0441\u0435\u043C\\dmitriy-vanchin-kt-42-21\\dmitriyVanchinKt-42-21\\Program.cs",
+              "RelativeToolTip": "dmitriyVanchinKt-42-21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:42:27.148Z",
+              "EditorCaption": ""
             }
           ]
         }
